@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/rolandpoulter/js-utils.png)](http://travis-ci.org/rolandpoulter/js-utils)
+
 Copyright (C) Infinity
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
